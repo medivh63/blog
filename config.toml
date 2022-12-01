@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://medivh63.github.io/blog/'
+languageCode = 'en-ZH'
+title = 'medivh'
 theme = 'DoIt'
 [params]
   # DoIt 主题版本
