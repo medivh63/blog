@@ -143,7 +143,7 @@ theme = 'FixIt'
     #   自定义内容（支持 HTML 格式）
     # custom = ""
     #  是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     #  是否显示版权信息
     copyright = false
     #  是否显示作者
@@ -159,7 +159,7 @@ theme = 'FixIt'
     #  ICP 备案信息，仅在中国使用（支持 HTML 格式）
     icp = ""
     # 许可协议信息（支持 HTML 格式）
-    license = 'by medivh'
+    license = ''
 
   #  Section（所有文章）页面配置
   [params.section]
