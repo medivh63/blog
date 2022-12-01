@@ -1,4 +1,4 @@
-baseURL = 'https://medivh63.github.io/blog/'
+baseURL = 'https://blog.cnmire.com'
 languageCode = 'en-ZH'
 title = 'medivh'
 theme = 'DoIt'
