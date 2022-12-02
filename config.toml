@@ -53,7 +53,7 @@ theme = 'FixIt'
   # 网站描述
   description = "来自一位中年码农的无聊文字"
   # 网站关键词
-  keywords = ["Hugo", "FixIt"]
+  keywords = ["Java", "Rust"]
   # 网站默认主题样式 ["light", "dark", "auto"]
   defaultTheme = "auto"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
