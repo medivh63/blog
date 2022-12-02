@@ -121,7 +121,7 @@ theme = 'FixIt'
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = "/fixit.min.svg"
+      logo = ""
       # 标题名称
       name = "泥潭"
       # 你可以在名称（允许 HTML 格式）之前添加其他信息，例如图标
@@ -429,7 +429,7 @@ theme = 'FixIt'
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = true
       Pinterest = false
@@ -439,19 +439,19 @@ theme = 'FixIt'
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
+      Myspace = false
       Blogger = true
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
