@@ -11,7 +11,7 @@ weight: 0
 tags:
 - 疫情
 categories:
-- posts
+- 疫情时代
 toc:
   enable: true
 
