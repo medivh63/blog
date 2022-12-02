@@ -4,10 +4,11 @@ subtitle: ""
 date: 2022-12-02T14:02:36+08:00
 author: "薄文"
 authorLink: ""
-authorEmail: ""
 description: ""
 comment: false
 weight: 0
+featuredImagePreview: "https://i.imgur.com/w3K3dsK.jpg"
+images: ["https://i.imgur.com/w3K3dsK.jpg"]
 tags:
 - 疫情
 categories:
@@ -17,6 +18,8 @@ toc:
 
 # See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
 ---
+
+<a href="https://imgur.com/w3K3dsK"><img src="https://i.imgur.com/w3K3dsK.jpg" title="source: imgur.com" /></a>
 
 原作者 (原文已被删除)：[薄文](https://mp.weixin.qq.com/s/BrmP02XuJ3tJn1-Lo5IfOA)
 
