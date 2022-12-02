@@ -1,6 +1,8 @@
 # 17年前，我和近3万中国移民一起登陆加拿大
 
 
+<a href="https://imgur.com/yW23MIB"><img src="https://i.imgur.com/yW23MIB.jpg" title="source: imgur.com" /></a>
+
 > 侵权删
 
 2020年2月7号晚上，加拿大多伦多国际机场人来人往，看不出疫情即将在这个城市爆发的迹象。经过了15小时的不停顿飞行，换了5个医用口罩后，我背着大包小包下飞机，向入境处走去。这是中国南航从广州飞多伦多的末班航班之一。一个星期后，航班停了，重开遥遥无期。
@@ -231,5 +233,5 @@
 ---
 
 > 作者: [帆子](https://mp.weixin.qq.com/s?__biz=MjM5NzU4ODQ2MA==&mid=2676485311&idx=1&sn=ed7da3f46bb934ca1622b847a191ee91&chksm=bca4f03c8bd3792ad265ff63f9440f59823dc5713eac63208044ab6b8224f6f5312ddd144973#rd)  
-> URL: https://blog.cnmire.com/first_blog/  
+> URL: https://blog.cnmire.com/blog1/  
 
