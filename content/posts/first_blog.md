@@ -3,15 +3,14 @@ title: "17年前，我和近3万中国移民一起登陆加拿大"
 date: 2022-12-01T21:08:56+08:00
 subtitle: "现在，纵然还有苍茫的时刻，我终于能说，“此心安处是吾乡”"
 author: "帆子"
+authorLink: "https://mp.weixin.qq.com/s?__biz=MjM5NzU4ODQ2MA==&mid=2676485311&idx=1&sn=ed7da3f46bb934ca1622b847a191ee91&chksm=bca4f03c8bd3792ad265ff63f9440f59823dc5713eac63208044ab6b8224f6f5312ddd144973#rd"
 featuredImagePreview: "https://i.imgur.com/yW23MIB.jpg"
-images: "https://i.imgur.com/yW23MIB.jpg"
-categories: "posts"
+images: ["https://i.imgur.com/yW23MIB.jpg"]
+categories: 
+ - "移民故事"
+tags:
+ - "多伦多"
 ---
-
-<a href="https://imgur.com/yW23MIB"><img src="https://i.imgur.com/yW23MIB.jpg" title="source: imgur.com" /></a>
-
-
-{{< link href="https://mp.weixin.qq.com/s?__biz=MjM5NzU4ODQ2MA==&mid=2676485311&idx=1&sn=ed7da3f46bb934ca1622b847a191ee91&chksm=bca4f03c8bd3792ad265ff63f9440f59823dc5713eac63208044ab6b8224f6f5312ddd144973#rd" content=阅读原文 >}}
 
 > 侵权删
 
