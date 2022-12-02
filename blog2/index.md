@@ -1,6 +1,8 @@
 # 回燕郊的路
 
 
+<a href="https://imgur.com/w3K3dsK"><img src="https://i.imgur.com/w3K3dsK.jpg" title="source: imgur.com" /></a>
+
 原作者 (原文已被删除)：[薄文](https://mp.weixin.qq.com/s/BrmP02XuJ3tJn1-Lo5IfOA)
 
 # 正文
