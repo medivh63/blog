@@ -4,7 +4,7 @@ defaultContentLanguage = "zh-cn"
 languageCode = 'en-CN'
 title = '泥潭'
 # 主题设置
-theme = 'FixIt'
+theme = 'LoveIt'
 [menu]
   [[menu.main]]
     identifier = "posts"
