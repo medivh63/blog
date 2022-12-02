@@ -3,6 +3,7 @@ title: "17年前，我和近3万中国移民一起登陆加拿大"
 date: 2022-12-01T21:08:56+08:00
 subtitle: "现在，纵然还有苍茫的时刻，我终于能说，“此心安处是吾乡”"
 author: "帆子"
+featuredImagePreview: "https://i.imgur.com/yW23MIB.jpg"
 ---
 
 <a href="https://imgur.com/yW23MIB"><img src="https://i.imgur.com/yW23MIB.jpg" title="source: imgur.com" /></a>
