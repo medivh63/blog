@@ -9,6 +9,7 @@ comment: false
 weight: 0
 featuredImagePreview: "https://i.imgur.com/w3K3dsK.jpg"
 images: ["https://i.imgur.com/w3K3dsK.jpg"]
+comment: true
 tags:
 - 疫情
 categories:
