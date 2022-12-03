@@ -3,21 +3,13 @@ title: "回燕郊的路"
 subtitle: ""
 date: 2022-12-02T14:02:36+08:00
 author: "薄文"
-authorLink: ""
-description: ""
-comment: false
 weight: 0
 featuredImagePreview: "https://i.imgur.com/w3K3dsK.jpg"
 images: ["https://i.imgur.com/w3K3dsK.jpg"]
-comment: true
 tags:
 - 疫情
 categories:
 - 疫情时代
-toc:
-  enable: true
-
-# See details front matter: https://fixit.lruihao.cn/theme-documentation-content/#front-matter
 ---
 
 <a href="https://imgur.com/w3K3dsK"><img src="https://i.imgur.com/w3K3dsK.jpg" title="source: imgur.com" /></a>
