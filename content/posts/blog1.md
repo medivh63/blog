@@ -240,5 +240,3 @@ tags:
 那个磨合过程，是另外一个故事。
 
 **现在，纵然还有苍茫的时刻，我终于能说，“此心安处是吾乡”。**
-
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-height="Auto" data-color="72E350" data-dislikes="1" data-colorful="1" data-dark="1"></script>
