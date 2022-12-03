@@ -457,7 +457,7 @@ theme = 'FixIt'
       Mix = false
     #  评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       #  Artalk 评论系统设置 (https://artalk.js.org/)
       [params.page.comment.artalk]
         enable = false
@@ -532,11 +532,11 @@ theme = 'FixIt'
         languageCode = "zh_CN"
       #  Telegram Comments 评论系统设置 (https://comments.app)
       [params.page.comment.telegram]
-        enable = true
-        siteID = "2h9SXzXx"
+        enable = false
+        siteID = ""
         limit = 5
         height = ""
-        color = "13B4C6"
+        color = ""
         colorful = true
         dislikes = false
         outlined = false
