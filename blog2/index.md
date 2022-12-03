@@ -240,7 +240,6 @@ JC说：给社区打电话，他们同意接收你，我就给你填表；
 能不能各地区域性地统计一下疫苗接种率，达到一定比例，就区域性的放开百姓生活、活动，同时敦促没打疫苗的尽快接种！
 最终 全国各地整体疫苗接种率都提高到80% 90以上，也就没必要这么谈虎色变了吧！国内全都放开的那天 ，也就可以到来了吧？
 
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-height="Auto" data-color="72E350" data-dislikes="1" data-colorful="1" data-dark="1"></script>
 
 ---
 
