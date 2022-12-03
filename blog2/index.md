@@ -7,8 +7,6 @@
 
 # 正文
 
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-height="500" data-color="72E350" data-dislikes="1" data-colorful="1" data-dark="1"></script>
-
 18号下午我在回燕郊的路上拍了燕郊人在风雪中排队回家的照片发到公众号。当晚三个单位打电话让我删除照片。妻子告诉我，晚十一点左右有两名警察来到我家要求我删帖。当时我因为核酸报告没出来，正坐在白庙检查站附近的一家面馆里，穿着被雪淋湿的外套发抖。
 
 我回复来电的人们，我不删帖，因为照片和文字是真实的，评论中人们的声音也是真实的，他们需要被看到。人们在那个帖子下面留下两千四百多条评论，留言大多在讲述着疫情中住在燕郊人的艰难和苦涩，也有对燕郊人逃避封控的指责。晚十一点多，帖子被公众号平台删了。
@@ -242,6 +240,7 @@ JC说：给社区打电话，他们同意接收你，我就给你填表；
 能不能各地区域性地统计一下疫苗接种率，达到一定比例，就区域性的放开百姓生活、活动，同时敦促没打疫苗的尽快接种！
 最终 全国各地整体疫苗接种率都提高到80% 90以上，也就没必要这么谈虎色变了吧！国内全都放开的那天 ，也就可以到来了吧？
 
+<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-height="Auto" data-color="72E350" data-dislikes="1" data-colorful="1" data-dark="1"></script>
 
 ---
 
