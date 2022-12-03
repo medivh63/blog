@@ -333,7 +333,7 @@ theme = 'FixIt'
     #  是否在 RSS 中显示全文内容
     rssFullText = false
     #  页面样式 ["narrow", "normal", "wide", ...]
-    pageStyle = "normal"
+    pageStyle = "narrow"
     #  强制使用 Gravatar 作为作者头像
     gravatarForce = true
     #  开启自动书签支持
@@ -532,10 +532,10 @@ theme = 'FixIt'
         languageCode = "zh_CN"
       #  Telegram Comments 评论系统设置 (https://comments.app)
       [params.page.comment.telegram]
-        enable = false
-        siteID = ""
+        enable = true
+        siteID = "2h9SXzXx"
         limit = 5
-        height = ""
+        height = "Auto"
         color = ""
         colorful = true
         dislikes = false
