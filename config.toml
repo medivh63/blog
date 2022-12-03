@@ -4,7 +4,7 @@ defaultContentLanguage = "zh-cn"
 languageCode = 'en-CN'
 title = '泥潭'
 # 主题设置
-theme = 'LoveIt'
+theme = 'FixIt'
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -564,12 +564,12 @@ theme = 'LoveIt'
         lightgallery = false
       #  Giscus 评论系统设置
       [params.page.comment.giscus]
-        enable = false
-        repo = ""
-        repoId = ""
-        category = ""
-        categoryId = ""
-        mapping = ""
+        enable = true
+        repo = "medivh63/blog"
+        repoId = "R_kgDOIicbrg"
+        category = "General"
+        categoryId = "DIC_kwDOIicbrs4CS5Cg"
+        mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
         inputPosition = "bottom" # top, bottom
