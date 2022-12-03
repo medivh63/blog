@@ -532,10 +532,10 @@ theme = 'FixIt'
         languageCode = "zh_CN"
       #  Telegram Comments 评论系统设置 (https://comments.app)
       [params.page.comment.telegram]
-        enable = false
-        siteID = ""
+        enable = true
+        siteID = "2h9SXzXx"
         limit = 5
-        height = ""
+        height = "Auto"
         color = ""
         colorful = true
         dislikes = false
@@ -564,11 +564,11 @@ theme = 'FixIt'
         lightgallery = false
       #  Giscus 评论系统设置
       [params.page.comment.giscus]
-        enable = true
-        repo = "medivh63/blog"
-        repoId = "R_kgDOIicbrg"
+        enable = false
+        repo = ""
+        repoId = ""
         category = "General"
-        categoryId = "DIC_kwDOIicbrs4CS5Cg"
+        categoryId = ""
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
