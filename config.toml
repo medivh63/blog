@@ -51,7 +51,7 @@ theme = 'FixIt'
   #  FixIt 主题版本
   version = "0.2.X" # 例如："0.2.X", "0.2.15", "v0.2.15" 等
   # 网站描述
-  description = "来自一位中年码农的无聊文字"
+  description = "中年码农的一些无聊文字"
   # 网站关键词
   keywords = ["Java", "Rust"]
   # 网站默认主题样式 ["light", "dark", "auto"]
