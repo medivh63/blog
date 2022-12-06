@@ -1,5 +1,5 @@
 ---
-title: "第一次申请加拿大旅游签被拒"
+title: "申请加拿大旅游签被拒"
 subtitle: ""
 date: 2022-12-05T14:21:15+08:00
 author: "Medivh"
@@ -21,7 +21,7 @@ hiddenFromSearch: false
 <!--more-->
 
 ## 大致情况
-夫妻两人
+夫妻两人白本护照
 - :white_check_mark: 冻结了25万资金
 - :white_check_mark: 基金账户10万
 - :white_check_mark: 房产证明
