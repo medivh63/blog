@@ -39,3 +39,8 @@ hiddenFromSearch: false
 - Your assets and financial situation are insufficient to support the stated purpose of travel for yourself (and any accompanying family member(s), if applicable)
 
 - The purpose of your visit to Canada is not consistent with a temporary stay given the details you have provided in your application
+
+
+---
+
+<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-outlined="1" data-colorful="1" data-dark="1"></script>
