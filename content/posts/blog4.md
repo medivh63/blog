@@ -9,6 +9,7 @@ weight: 0
 
 tags:
 - 签证
+- 加拿大
 categories:
 - 加拿大
 
