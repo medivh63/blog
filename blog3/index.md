@@ -34,5 +34,5 @@
 ---
 
 > 作者: [Medivh](https://themire.site/t/topic/12)  
-> URL: https://blog.cnmire.com/blog3/  
+> URL: https://blog.32int.com/blog3/  
 

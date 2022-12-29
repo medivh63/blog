@@ -247,5 +247,5 @@ JC说：给社区打电话，他们同意接收你，我就给你填表；
 ---
 
 > 作者: 薄文  
-> URL: https://blog.cnmire.com/blog2/  
+> URL: https://blog.32int.com/blog2/  
 
