@@ -27,10 +27,6 @@
   }
   ```
 
-  ---
-
-  <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-outlined="1" data-colorful="1" data-dark="1"></script>
-
 ---
 
 > 作者: [Medivh](https://themire.site/t/topic/12)  

@@ -232,10 +232,6 @@
 
 ---
 
-<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="2h9SXzXx" data-limit="5" data-outlined="1" data-colorful="1" data-dark="1"></script>
-
----
-
 > 作者: [帆子](https://mp.weixin.qq.com/s?__biz=MjM5NzU4ODQ2MA==&mid=2676485311&idx=1&sn=ed7da3f46bb934ca1622b847a191ee91&chksm=bca4f03c8bd3792ad265ff63f9440f59823dc5713eac63208044ab6b8224f6f5312ddd144973#rd)  
 > URL: https://blog.32int.com/blog1/  
 
