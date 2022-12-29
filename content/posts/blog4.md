@@ -1,5 +1,5 @@
 ---
-title: "申请加拿大旅游签被拒"
+title: "申请加拿大旅游签被拒！"
 subtitle: ""
 date: 2022-12-05T14:21:15+08:00
 author: "Medivh"
