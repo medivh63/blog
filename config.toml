@@ -1,4 +1,4 @@
-baseURL = 'https://blog.cnmire.com'
+baseURL = 'https://blog.32int.com'
 # 默认语言
 defaultContentLanguage = "zh-cn"
 languageCode = 'en-CN'
