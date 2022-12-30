@@ -2,15 +2,9 @@
 title: "2022年终总结"
 subtitle: ""
 date: 2022-12-30T14:43:26+08:00
-draft: true
-author: ""
-authorLink: ""
-authorEmail: ""
+author: "Medivh"
 description: ""
 keywords: ""
-license: ""
-comment: false
-weight: 0
 
 tags:
 - 2022
